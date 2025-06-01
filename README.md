@@ -9,3 +9,12 @@ The core objective is to support early intervention by using machine learning mo
 `Remain Enrolled`
 `Successfully Graduate`
 This is framed as a three-class classification problem with a known class imbalance, offering real-world challenges for predictive modeling and education analytics.
+
+
+### Dataset Highlights
+*Instances (Rows)*: 4,424 students
+*Features (Columns)*: 36 total
+*Types*: Integer, Categorical, and Real-valued
+Includes both demographic and academic information
+*Target Variable*: 'Target' (Categorical)
+*Classes*: `Dropout`, `Enrolled`, `Graduate`
