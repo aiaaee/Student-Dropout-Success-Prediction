@@ -49,4 +49,6 @@ GDP, Inflation Rate at Enrollment Time
 This dataset was created under the SATDAP - Capacitação da Administração Pública project funded by POCI-05-5762-FSE-000191 (Portugal) and is available through the UCI Machine Learning Repository.
 
 ## Developer note 
-I collected this dataset from [Kaggle](https://www.kaggle.com/datasets/adilshamim8/predict-students-dropout-and-academic-success) and I Design and Develop the project in here 
+This dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/adilshamim8/predict-students-dropout-and-academic-success), and the project was designed and developed [here](https://github.com/aiaaee/Student-Dropout-Success-Prediction/blob/main/Student_Dropout_%26_Success_Prediction_Dataset.ipynb) and the dataset was uploaded here
+
+
