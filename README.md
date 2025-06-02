@@ -24,3 +24,22 @@ This is framed as a three-class classification problem with a known class imbala
 *Target Variable*: 'Target' (Categorical)
 
 *Classes*: `Dropout`, `Enrolled`, `Graduate`
+
+
+###Feature Categories
+**Demographics & Socioeconomic**:
+
+Gender, Age, Marital Status
+Nationality
+Parental Education and Occupation
+Scholarship, Tuition Fees, Application Mode
+
+**Academic History** :
+
+Degree Program, Curricular Units Enrolled & Approved
+Grades from 1st and 2nd semesters
+Admission Grade, Previous Qualification
+
+**External Factors**:
+
+GDP, Inflation Rate at Enrollment Time
