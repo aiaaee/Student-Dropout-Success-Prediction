@@ -44,3 +44,7 @@ Admission Grade, Previous Qualification
 **External Factors**:
 
 GDP, Inflation Rate at Enrollment Time
+
+**Citation & Source**
+This dataset was created under the SATDAP - Capacitação da Administração Pública project funded by POCI-05-5762-FSE-000191 (Portugal) and is available through the UCI Machine Learning Repository.
+
