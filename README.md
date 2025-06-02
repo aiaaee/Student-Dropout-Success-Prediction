@@ -26,7 +26,7 @@ This is framed as a three-class classification problem with a known class imbala
 *Classes*: `Dropout`, `Enrolled`, `Graduate`
 
 
-## Feature Categories
+### Feature Categories
 
 **Demographics & Socioeconomic**:
 
@@ -44,6 +44,14 @@ Admission Grade, Previous Qualification
 **External Factors**:
 
 GDP, Inflation Rate at Enrollment Time
+
+## Pipeline 
+1. Imports
+2. Extraction
+3. Explority Data Analysis
+4. Data Processing
+5. Evaluation
+
 
 ## Citation & Source
 This dataset was created under the SATDAP - Capacitação da Administração Pública project funded by POCI-05-5762-FSE-000191 (Portugal) and is available through the UCI Machine Learning Repository.
