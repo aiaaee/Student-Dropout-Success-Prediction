@@ -26,7 +26,8 @@ This is framed as a three-class classification problem with a known class imbala
 *Classes*: `Dropout`, `Enrolled`, `Graduate`
 
 
-###Feature Categories
+### Feature Categories
+
 **Demographics & Socioeconomic**:
 
 Gender, Age, Marital Status
