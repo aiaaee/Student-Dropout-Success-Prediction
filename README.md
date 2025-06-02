@@ -15,7 +15,7 @@ This is framed as a three-class classification problem with a known class imbala
 
 ## Dataset Highlights
 
-### Feature Explanation
+### Feature Explanation : 
 *Instances (Rows)*: 4,424 students
 
 *Features (Columns)*: 36 total
@@ -28,7 +28,7 @@ This is framed as a three-class classification problem with a known class imbala
 *Classes*: `Dropout`, `Enrolled`, `Graduate`
 
 
-### Feature Categories
+### Feature Categories : 
 
 **Demographics & Socioeconomic**:
 
