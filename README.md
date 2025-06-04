@@ -1,4 +1,4 @@
-# Student Dropout/Graduate/Enrolled Prediction 
+# Student Dropout/Graduate/Enrolled Prediction  
 
 ![dataset-cover](https://github.com/user-attachments/assets/e017ac6d-f96b-4193-89cd-862161f9c32d)
     
